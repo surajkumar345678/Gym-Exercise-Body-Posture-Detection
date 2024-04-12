@@ -45,6 +45,24 @@ Regular exercise is essential for maintaining physical fitness and overall well-
 12. Click on button. Mediapipe feed pops up with enabled camera. Follow the on-screen instructions to perform exercises and receive feedback.
     ![image](https://github.com/surajkumar345678/Gym-Exercise-Body-Posture-Detection/assets/60316890/b734dc8d-6ebd-44c0-b635-3bfee204d820)
 
+## Screenshots
+*Bicep Curl:*
+![image](https://github.com/surajkumar345678/Gym-Exercise-Body-Posture-Detection/assets/60316890/dd9c4758-20c4-46be-930b-eeaa19f7364a)
+
+
+*Front Raise:*
+![image](https://github.com/surajkumar345678/Gym-Exercise-Body-Posture-Detection/assets/60316890/494708e8-ac75-460c-8881-f3c024146bc6)
+![image](https://github.com/surajkumar345678/Gym-Exercise-Body-Posture-Detection/assets/60316890/d677adf3-8c5f-41fa-ad8a-5e615a86ce66)
+
+
+*Shoulder Press:*
+![image](https://github.com/surajkumar345678/Gym-Exercise-Body-Posture-Detection/assets/60316890/55493cd1-fda2-499b-8f99-a64a3fe43f71)
+![image](https://github.com/surajkumar345678/Gym-Exercise-Body-Posture-Detection/assets/60316890/23e96f0e-99c4-4194-826a-34a9bf228eb1)
+
+
+*Front Squat:*
+![image](https://github.com/surajkumar345678/Gym-Exercise-Body-Posture-Detection/assets/60316890/35f397c6-a647-491b-aef8-ec3dfb943e0e)
+
 
 ## Contributions
 
